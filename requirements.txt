@@ -1,0 +1,3 @@
+biopython>=1.81
+rich>=13.0
+click>=8.0
